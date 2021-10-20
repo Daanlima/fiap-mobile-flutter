@@ -1,0 +1,6 @@
+package com.example.appvagaemprego
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
